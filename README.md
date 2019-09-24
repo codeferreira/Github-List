@@ -2,6 +2,16 @@
 
 Github List is a React SPA for you to store some of your favorite repostories in Github and see some information about it.
 
+[![GitHub issues](https://img.shields.io/github/issues/JKFher/Github-List?style=flat-square)](https://github.com/JKFher/Github-List/issues)
+[![GitHub forks](https://img.shields.io/github/forks/JKFher/Github-List?style=flat-square)](https://github.com/JKFher/Github-List/network)
+[![GitHub stars](https://img.shields.io/github/stars/JKFher/Github-List?style=flat-square)](https://github.com/JKFher/Github-List/stargazers)
+[![GitHub license](https://img.shields.io/github/license/JKFher/Github-List?style=flat-square)](https://github.com/JKFher/Github-List/blob/master/LICENSE)
+
+## Images
+
+<img src="./prints/main.png" width="400" align="right"/>
+<img src="./prints/repo.png" width="400" align="center" />
+
 ## Installation & Usage
 
 Use [nodejs@10*]() or higher.
